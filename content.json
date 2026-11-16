@@ -38,122 +38,204 @@
   "projects": [
     {
       "cluster": "branding",
-      "title": "Ledger — Fintech identity",
-      "tag": "branding | tech",
-      "href": "#",
-      "art": 0
+      "title": "Own — Branding",
+      "tag": "Branding | FinTech",
+      "href": "https://www.behance.net/gallery/249360415/Branding-Own",
+      "art": 0,
+      "size": 1,
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Own is a borderless, permissionless DeFi protocol that brings true ownership to real-world assets by enabling users to mint and invest in fully backed, tokenised, stocks, commodities, and indices onchain using stablecoins.<p><br></p><p>Domain: <b>FinTech</b></p><p>Scope: <b>Branding</b></p><p>Year: <b>2026</b></p>"
+        },
+        {
+          "t": "img",
+          "src": "images/c172ecc4334dc5.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/d100e9add8d364.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/076069e4054813.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/1e199cd01526a3.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/0cfbeac3aa0780.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/e03ea6226a3745.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/d6a8bf7fa607af.webp",
+            "images/f6f1b1fa2ea735.webp"
+          ],
+          "cols": 2
+        },
+        {
+          "t": "img",
+          "src": "images/c6afd2379a7301.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/1c19456fd787de.webp",
+          "caption": "",
+          "size": "full"
+        }
+      ],
+      "cover": "images/6c396cd37c5f68.webp"
     },
     {
       "cluster": "branding",
-      "title": "Skylark — Insurance",
-      "tag": "branding | illustrative",
+      "title": "Abundance Festival ",
+      "tag": "Branding | Strategy",
       "href": "#",
-      "art": 1
+      "art": 1,
+      "size": 1,
+      "blocks": [],
+      "cover": "images/26e6bdc47cf7cc.webp"
     },
     {
       "cluster": "branding",
       "title": "Deep Crust Co. — Bakery",
       "tag": "branding | illustrative",
       "href": "#",
-      "art": 2
+      "art": 2,
+      "size": 1
     },
     {
       "cluster": "branding",
       "title": "Prism — Developer tools",
       "tag": "branding | tech",
       "href": "#",
-      "art": 3
+      "art": 3,
+      "size": 1
     },
     {
       "cluster": "branding",
       "title": "Marigold — Tea identity",
       "tag": "branding | illustrative",
       "href": "#",
-      "art": 4
+      "art": 4,
+      "size": 1
     },
     {
       "cluster": "films",
       "title": "Ledger — Launch film",
       "tag": "brand films",
       "href": "#",
-      "art": 0
+      "art": 0,
+      "size": 1
     },
     {
       "cluster": "films",
       "title": "Skylark — 30s spot",
       "tag": "brand films",
       "href": "#",
-      "art": 1
+      "art": 1,
+      "size": 1
     },
     {
       "cluster": "films",
       "title": "Prism — Product teaser",
       "tag": "brand films",
       "href": "#",
-      "art": 2
+      "art": 2,
+      "size": 1
     },
     {
       "cluster": "designs",
       "title": "Ledger — Launch posts",
       "tag": "brand designs | social media",
       "href": "#",
-      "art": 5
+      "art": 5,
+      "size": 1
     },
     {
       "cluster": "designs",
       "title": "Deep Crust — Menu poster",
       "tag": "brand designs | print",
       "href": "#",
-      "art": 6
+      "art": 6,
+      "size": 1
     },
     {
       "cluster": "designs",
       "title": "Marigold — Packaging",
       "tag": "brand designs | print",
       "href": "#",
-      "art": 7
+      "art": 7,
+      "size": 1
     },
     {
       "cluster": "designs",
       "title": "Skylark — Story set",
       "tag": "brand designs | social media",
       "href": "#",
-      "art": 8
+      "art": 8,
+      "size": 1
     },
     {
       "cluster": "designs",
       "title": "Prism — Stationery",
       "tag": "brand designs | print",
       "href": "#",
-      "art": 9
+      "art": 9,
+      "size": 1
     },
     {
       "cluster": "others",
       "title": "Night Drive Reissue",
       "tag": "others | album covers",
       "href": "#",
-      "art": 10
+      "art": 10,
+      "size": 1
     },
     {
       "cluster": "others",
       "title": "Sunday Static",
       "tag": "others | album covers",
       "href": "#",
-      "art": 11
+      "art": 11,
+      "size": 1
     },
     {
       "cluster": "others",
       "title": "Icon set",
       "tag": "others | icons",
       "href": "#",
-      "art": 12
+      "art": 12,
+      "size": 1
     },
     {
       "cluster": "others",
       "title": "Design research thesis",
       "tag": "others | research",
       "href": "#",
-      "art": 13
+      "art": 13,
+      "size": 1
     }
   ],
   "about": {
