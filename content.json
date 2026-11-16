@@ -67,6 +67,7 @@
       "heroBg": "",
       "ink": "auto",
       "titleScale": 1,
+      "heroGap": 32,
       "blocks": [
         {
           "t": "img",
@@ -157,6 +158,7 @@
       "heroBg": "",
       "ink": "auto",
       "titleScale": 1,
+      "heroGap": 32,
       "blocks": [
         {
           "t": "img",
@@ -247,6 +249,7 @@
       "heroBg": "",
       "ink": "auto",
       "titleScale": 1,
+      "heroGap": 32,
       "blocks": [
         {
           "t": "img",
@@ -323,6 +326,8 @@
       "href": "https://www.behance.net/gallery/254355411/Packaging-Design-Branding-Madhosh",
       "art": 3,
       "size": 1.7,
+      "cover": "images/66e34ab7173218.webp",
+      "hero": "images/7d33f121d578ad.webp",
       "heroFit": "framed",
       "brief": "<span class=\"fs fs2\">Featured on Packaging of the World:</span><p><a href=\"https://Featured on Packaging of the World: https://packagingoftheworld.com/2026/09/madhosh-packaging-design.html\" target=\"_blank\" rel=\"noopener\"><span class=\"fs fs2\">https://packagingoftheworld.com/2026/09/madhosh-packaging-design.html</span></a></p><p>Alcohol is almost always enjoyed chilled - over ice, on the rocks, or straight from the fridge. Madhosh takes that familiar relationship evenf urther, turning alcohol into a frozen cocktail. </p><p>Made with native Indian spirits like Mahua, Feni, and Apong, the product brings regional ingredients into a playful, contemporary format designed for a curious Gen Z audience looking for new experienc, flavours, and a slower, floaty buzz.</p>",
       "facts": [
@@ -345,6 +350,7 @@
       "heroBg": "",
       "ink": "auto",
       "titleScale": 1,
+      "heroGap": 32,
       "blocks": [
         {
           "t": "img",
@@ -415,9 +421,7 @@
           "caption": "",
           "size": "full"
         }
-      ],
-      "hero": "images/7d33f121d578ad.webp",
-      "cover": "images/66e34ab7173218.webp"
+      ]
     },
     {
       "cluster": "films",
@@ -426,6 +430,8 @@
       "href": "https://www.behance.net/gallery/203582083/Brand-Film-Designs-Slick",
       "art": 0,
       "size": 1,
+      "cover": "images/959634c2b14dd1.webp",
+      "hero": "images/be3e8ff14b7f87.webp",
       "heroFit": "framed",
       "brief": "Slick App is a social media app for colleges and schools where users can share compliments anonymously. Slick is intended to be for socializing with friends where users can only communicate with those they have accepted as friends and only through polls.",
       "facts": [
@@ -448,13 +454,8 @@
       "heroBg": "",
       "ink": "auto",
       "titleScale": 1,
+      "heroGap": 32,
       "blocks": [
-        {
-          "t": "img",
-          "src": "",
-          "caption": "",
-          "size": "full"
-        },
         {
           "t": "gallery",
           "srcs": [
@@ -469,41 +470,65 @@
         },
         {
           "t": "video",
-          "url": ""
+          "url": "",
+          "src": "videos/6196688dae4a0c.mp4",
+          "vid": "",
+          "name": "@slickapp_hq x @owledmedia.mp4"
         }
-      ],
-      "hero": "images/be3e8ff14b7f87.webp",
-      "cover": "images/959634c2b14dd1.webp"
+      ]
     },
     {
       "cluster": "films",
-      "title": "Skylark — 30s spot",
-      "tag": "brand films",
-      "href": "#",
+      "title": "Sqrrl ",
+      "tag": "Direction | Storyboarding | Style Frames ",
+      "href": "https://www.behance.net/gallery/203193663/Brand-Film-Designs-Sqrrl",
       "art": 1,
       "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
+      "heroFit": "framed",
+      "brief": "<span class=\"fs fs2\">Sqrrl is a digital platform that simplifies investments and savings for individuals, offering various investment options like mutual funds, digital gold, and fixed deposits. They focus on making financial planning accessible and manageable with personalized advice and goal-based investing. </span>",
       "facts": [
         {
-          "label": "Client",
-          "value": ""
+          "label": "Agency",
+          "value": "OWLED Media Inc."
         },
         {
           "label": "Scope",
-          "value": ""
+          "value": "Video Flow Direction, Storyboarding and Style Frame Designs"
         },
         {
-          "label": "Timeline",
-          "value": ""
+          "label": "Year",
+          "value": "2024"
         }
       ],
       "linkLabel": "View project ↗",
-      "gap": 24,
+      "gap": 0,
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 36,
+      "blocks": [
+        {
+          "t": "img",
+          "src": "",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/7375b01e09214e.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/4255e75ea8d497.webp",
+          "caption": "",
+          "size": "full"
+        }
+      ],
+      "hero": "images/3882aeb87f8285.webp",
+      "cover": "images/43c7cd5c98be6b.webp"
     },
     {
       "cluster": "films",
@@ -533,7 +558,8 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 32
     },
     {
       "cluster": "designs",
@@ -563,7 +589,8 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 32
     },
     {
       "cluster": "designs",
@@ -593,7 +620,8 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 32
     },
     {
       "cluster": "designs",
@@ -623,7 +651,8 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 32
     },
     {
       "cluster": "designs",
@@ -653,7 +682,8 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 32
     },
     {
       "cluster": "designs",
@@ -683,7 +713,8 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 32
     },
     {
       "cluster": "others",
@@ -713,7 +744,8 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 32
     },
     {
       "cluster": "others",
@@ -743,7 +775,8 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 32
     },
     {
       "cluster": "others",
@@ -773,7 +806,8 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 32
     },
     {
       "cluster": "others",
@@ -803,7 +837,8 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "heroGap": 32
     }
   ],
   "about": {
