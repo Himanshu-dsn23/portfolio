@@ -42,12 +42,31 @@
       "tag": "Branding | FinTech",
       "href": "https://www.behance.net/gallery/249360415/Branding-Own",
       "art": 0,
-      "size": 1,
-      "blocks": [
+      "size": 1.5,
+      "cover": "images/6c396cd37c5f68.webp",
+      "hero": "images/3c1e505d43417a.webp",
+      "heroFit": "framed",
+      "brief": "Own is a borderless, permissionless DeFi protocol that brings true ownership to real-world assets by enabling users to mint and invest in fully backed, tokenised, stocks, commodities, and indices onchain using stablecoins.",
+      "facts": [
         {
-          "t": "p",
-          "html": "Own is a borderless, permissionless DeFi protocol that brings true ownership to real-world assets by enabling users to mint and invest in fully backed, tokenised, stocks, commodities, and indices onchain using stablecoins.<p><br></p><p>Domain: <b>FinTech</b></p><p>Scope: <b>Branding</b></p><p>Year: <b>2026</b></p>"
+          "label": "Domain",
+          "value": "FinTech"
         },
+        {
+          "label": "Scope",
+          "value": "Branding, Brand Guidelines"
+        },
+        {
+          "label": "Year",
+          "value": "2026 "
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 0,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto",
+      "blocks": [
         {
           "t": "img",
           "src": "images/c172ecc4334dc5.webp",
@@ -56,7 +75,7 @@
         },
         {
           "t": "img",
-          "src": "images/d100e9add8d364.webp",
+          "src": "images/20ecd6ba821335.webp",
           "caption": "",
           "size": "full"
         },
@@ -104,18 +123,96 @@
           "caption": "",
           "size": "full"
         }
-      ],
-      "cover": "images/6c396cd37c5f68.webp"
+      ]
     },
     {
       "cluster": "branding",
       "title": "Abundance Festival ",
       "tag": "Branding | Strategy",
-      "href": "#",
+      "href": "https://www.behance.net/gallery/256434913/Branding-Abundance-Festival-(WIP)",
       "art": 1,
-      "size": 1,
-      "blocks": [],
-      "cover": "images/26e6bdc47cf7cc.webp"
+      "size": 1.5,
+      "cover": "images/c584bf7f78f8d2.webp",
+      "heroFit": "framed",
+      "brief": "Abundance Festival, is a celebration of the richness of human life and the extraordinary possibilities around us. Bringing together perspectives from science, culture, philosophy, spirituality, technology, ecology and the arts, the festival explores abundance beyond material prosperity, with a focus on India's diverse traditions, communities and contemporary voices.",
+      "facts": [
+        {
+          "label": "Domain",
+          "value": "Event "
+        },
+        {
+          "label": "Scope",
+          "value": "Branding | Strategy | Collaterals"
+        },
+        {
+          "label": "Year",
+          "value": "2026"
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 0,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto",
+      "blocks": [
+        {
+          "t": "img",
+          "src": "images/9505363c8582cb.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/988b786c2b5269.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/88cddae031ce79.gif",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/f30da9266215a9.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/b9b26c8a64b0d3.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/7e28e1029ea027.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/5d800f4635982a.webp",
+            "images/1efb22872829ab.webp"
+          ],
+          "cols": 2
+        },
+        {
+          "t": "img",
+          "src": "images/1248ab859a6d54.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/638cdf0881c31d.webp",
+          "caption": "",
+          "size": "full"
+        }
+      ],
+      "hero": "images/6a1b355cd57f5e.webp"
     },
     {
       "cluster": "branding",
@@ -123,7 +220,28 @@
       "tag": "branding | illustrative",
       "href": "#",
       "art": 2,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "branding",
@@ -131,7 +249,28 @@
       "tag": "branding | tech",
       "href": "#",
       "art": 3,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "branding",
@@ -139,7 +278,28 @@
       "tag": "branding | illustrative",
       "href": "#",
       "art": 4,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "films",
@@ -147,7 +307,28 @@
       "tag": "brand films",
       "href": "#",
       "art": 0,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "films",
@@ -155,7 +336,28 @@
       "tag": "brand films",
       "href": "#",
       "art": 1,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "films",
@@ -163,7 +365,28 @@
       "tag": "brand films",
       "href": "#",
       "art": 2,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "designs",
@@ -171,7 +394,28 @@
       "tag": "brand designs | social media",
       "href": "#",
       "art": 5,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "designs",
@@ -179,7 +423,28 @@
       "tag": "brand designs | print",
       "href": "#",
       "art": 6,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "designs",
@@ -187,7 +452,28 @@
       "tag": "brand designs | print",
       "href": "#",
       "art": 7,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "designs",
@@ -195,7 +481,28 @@
       "tag": "brand designs | social media",
       "href": "#",
       "art": 8,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "designs",
@@ -203,7 +510,28 @@
       "tag": "brand designs | print",
       "href": "#",
       "art": 9,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "others",
@@ -211,7 +539,28 @@
       "tag": "others | album covers",
       "href": "#",
       "art": 10,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "others",
@@ -219,7 +568,28 @@
       "tag": "others | album covers",
       "href": "#",
       "art": 11,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "others",
@@ -227,7 +597,28 @@
       "tag": "others | icons",
       "href": "#",
       "art": 12,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     },
     {
       "cluster": "others",
@@ -235,7 +626,28 @@
       "tag": "others | research",
       "href": "#",
       "art": 13,
-      "size": 1
+      "size": 1,
+      "heroFit": "bleed",
+      "brief": "",
+      "facts": [
+        {
+          "label": "Client",
+          "value": ""
+        },
+        {
+          "label": "Scope",
+          "value": ""
+        },
+        {
+          "label": "Timeline",
+          "value": ""
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 24,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto"
     }
   ],
   "about": {
@@ -257,7 +669,7 @@
     "ariaLabel": "Open resume PDF"
   },
   "viewer": {
-    "back": "← Back to mat",
+    "back": "← Back",
     "title": "Resume — Himanshu Singh Chauhan",
     "open": "Open PDF",
     "alt": "Resume of Himanshu Singh Chauhan"
@@ -265,6 +677,25 @@
   "ui": {
     "hint": "drag to explore",
     "bgMat": "Simple mat",
-    "bgGrid": "Box grid"
+    "bgGrid": "Box grid",
+    "more": "More projects"
+  },
+  "layout": {
+    "films": {
+      "dx": 0,
+      "dy": -48
+    },
+    "designs": {
+      "dx": 36,
+      "dy": 23
+    },
+    "others": {
+      "dx": 99,
+      "dy": -59
+    },
+    "resume": {
+      "dx": -1029,
+      "dy": 1330
+    }
   }
 }
