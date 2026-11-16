@@ -603,7 +603,7 @@
       ],
       "linkLabel": "View project ↗",
       "gap": 0,
-      "bg": "#1b1b1d",
+      "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
       "titleScale": 1,
@@ -611,19 +611,71 @@
       "blocks": [
         {
           "t": "img",
-          "src": "",
+          "src": "images/0a0554b1768ea0.webp",
           "caption": "",
           "size": "full"
         },
         {
           "t": "img",
-          "src": "images/7375b01e09214e.webp",
+          "src": "images/90bf65e5145527.webp",
           "caption": "",
           "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/a990281caa866f.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/98448282a81b90.gif",
+            "images/5c1dee868fc2ea.gif",
+            "images/ab4a0a36b0451a.gif",
+            "images/672ee02c72098f.gif"
+          ],
+          "cols": 2
         },
         {
           "t": "img",
           "src": "images/4255e75ea8d497.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/6023ddd7e47382.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/1e697c92186205.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/016b8fb180f3cd.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/0f6523fb64641c.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/d59148e9153598.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/e464a3f0176ed1.webp",
           "caption": "",
           "size": "full"
         }
