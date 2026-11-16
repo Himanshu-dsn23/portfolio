@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Himanshu — Visual Designer / Illustrator"
+    "title": "Himanshu Singh, a visual designer with "
   },
   "logo": {
-    "alt": "Himanshu’s Playground — Himanshu Singh Chauhan"
+    "alt": "Himanshu’s Playground - Himanshu Singh Chauhan"
   },
   "sticker": {
     "under": "with Claude's help."
@@ -872,7 +872,7 @@
       "tag": "Wall Illustration | Podcast Designs | Visual Design System",
       "href": "https://www.behance.net/gallery/248060107/Wall-Illustration-Podcast-Branding-Flipkart",
       "art": 9,
-      "size": 1.6,
+      "size": 1.65,
       "cover": "images/77b435899305db.webp",
       "hero": "images/5edb239f3abccd.webp",
       "heroFit": "framed",
@@ -990,86 +990,6 @@
     },
     {
       "cluster": "others",
-      "title": "A Work that Worked",
-      "tag": "Publication Design",
-      "href": "https://www.behance.net/gallery/255882039/Publication-Design-A-Work-that-Worked",
-      "art": 10,
-      "size": 1.4,
-      "cover": "images/3e07288d850a60.webp",
-      "hero": "images/2dc1ad060a8e36.webp",
-      "heroFit": "framed",
-      "brief": "<span class=\"fs fs2\">A publication exploring the making of Works That Work, based on Peter Biľak’s documentation of the magazine’s journey. The project brings this process together through editorial design, layouts, and visuals.</span>",
-      "hideTitle": false,
-      "hideBrief": false,
-      "hideFacts": false,
-      "facts": [
-        {
-          "label": "Organization",
-          "value": "MIT Institute of Design"
-        },
-        {
-          "label": "Scope",
-          "value": "Conceptualisation, Layouting, Composition, Cover"
-        },
-        {
-          "label": "Timeline",
-          "value": "3 Weeks"
-        }
-      ],
-      "linkLabel": "View project ↗",
-      "gap": 0,
-      "bg": "#ffffff",
-      "heroBg": "",
-      "ink": "auto",
-      "titleScale": 0.8,
-      "heroGap": 32,
-      "blocks": [
-        {
-          "t": "img",
-          "src": "images/9067c582125145.webp",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "img",
-          "src": "images/4d4df627770968.gif",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "img",
-          "src": "images/249d45d701b0a6.gif",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "embed",
-          "url": "<iframe allowfullscreen allow=\"autoplay\" scrolling=\"no\" style=\"width: 100%; height: 700px; border: 1px solid lightgray;\" src=\"https://heyzine.com/flip-book/588c257ceb.html\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
-          "ratio": "16/9",
-          "h": 600
-        },
-        {
-          "t": "img",
-          "src": "images/5e7e9e5090d27a.webp",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "img",
-          "src": "images/c7e7366b655b83.gif",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "img",
-          "src": "images/8015424fdf098d.webp",
-          "caption": "",
-          "size": "full"
-        }
-      ]
-    },
-    {
-      "cluster": "others",
       "title": "Groww Assistant",
       "tag": "UX Design & Research | App Feature",
       "href": "https://www.behance.net/gallery/256325743/UX-DesignResearch-App-Feature-Groww-Assistant",
@@ -1166,11 +1086,92 @@
     },
     {
       "cluster": "others",
+      "title": "A Work that Worked",
+      "tag": "Publication Design",
+      "href": "https://www.behance.net/gallery/255882039/Publication-Design-A-Work-that-Worked",
+      "art": 10,
+      "size": 1.5,
+      "cover": "images/3e07288d850a60.webp",
+      "hero": "images/2dc1ad060a8e36.webp",
+      "heroFit": "framed",
+      "brief": "<span class=\"fs fs2\">A publication exploring the making of Works That Work, based on Peter Biľak’s documentation of the magazine’s journey. The project brings this process together through editorial design, layouts, and visuals.</span>",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
+      "facts": [
+        {
+          "label": "Organization",
+          "value": "MIT Institute of Design"
+        },
+        {
+          "label": "Scope",
+          "value": "Conceptualisation, Layouting, Composition, Cover"
+        },
+        {
+          "label": "Timeline",
+          "value": "3 Weeks"
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 0,
+      "bg": "#ffffff",
+      "heroBg": "",
+      "ink": "auto",
+      "titleScale": 0.8,
+      "heroGap": 32,
+      "blocks": [
+        {
+          "t": "img",
+          "src": "images/9067c582125145.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/4d4df627770968.gif",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/249d45d701b0a6.gif",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "embed",
+          "url": "<iframe allowfullscreen allow=\"autoplay\" scrolling=\"no\" style=\"width: 100%; height: 700px; border: 1px solid lightgray;\" src=\"https://heyzine.com/flip-book/588c257ceb.html\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+          "ratio": "16/9",
+          "h": 600
+        },
+        {
+          "t": "img",
+          "src": "images/5e7e9e5090d27a.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/c7e7366b655b83.gif",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/8015424fdf098d.webp",
+          "caption": "",
+          "size": "full"
+        }
+      ]
+    },
+    {
+      "cluster": "others",
       "title": "Digital Paintings",
       "tag": "Illustrations | Digital Art",
       "href": "https://www.behance.net/gallery/141848057/Digital-Paintings-1",
       "art": 12,
-      "size": 1.55,
+      "size": 1.8,
+      "cover": "images/83a3bd8be45181.webp",
       "heroFit": "bleed",
       "brief": "",
       "hideTitle": true,
@@ -1216,14 +1217,13 @@
           "caption": "",
           "size": "full"
         }
-      ],
-      "cover": "images/83a3bd8be45181.webp"
+      ]
     }
   ],
   "about": {
     "title": "About",
-    "p1": "Detail-oriented visual designer with 4+ years in digital and print design, illustration, storyboarding and design for animated video. Storytelling sits at the center of my work.",
-    "p2": "Previously Senior Visual Designer at OWLED Media. \nCurrently pursuing M.Des from MIT Institute of Design, Pune",
+    "p1": "Detail-oriented visual designer with 4+ years in digital and print design, illustration, branding, conceptualization for product videos. Storytelling sits at the center of my work.",
+    "p2": "Previously Senior Visual Designer at OWLED Media.<p>  <br>Currently pursuing M.Des from MIT Institute of Design, Pune.</p>",
     "link1": {
       "label": "Behance",
       "href": "https://www.behance.net/himanshusingh_"
@@ -1268,16 +1268,16 @@
       "dy": -19
     },
     "others": {
-      "dx": -14,
-      "dy": -121
+      "dx": 109,
+      "dy": -128
     },
     "about": {
       "dx": 34,
       "dy": -6
     },
     "resume": {
-      "dx": -1054,
-      "dy": 1273
+      "dx": -1018,
+      "dy": 1312
     },
     "under": {
       "dx": -15,
@@ -1289,7 +1289,8 @@
     "nav.about": 0.85,
     "nav.resume": 0.85,
     "sticker.under": 1.45,
-    "about.title": 0.6
+    "about.title": 0.6,
+    "about.link1.label": 1.05
   },
   "gridFx": [
     "drift"
