@@ -9,7 +9,7 @@
     "under": "with Claude's help."
   },
   "hero": {
-    "tagline": "Visual Designer and Illustrator with a passion for storytelling, brand identity, and all areas of communication design."
+    "tagline": "Visual Designer with a passion for storytelling, brand identity, and all areas of communication design."
   },
   "nav": {
     "work": "Work",
@@ -38,100 +38,11 @@
   "projects": [
     {
       "cluster": "branding",
-      "title": "Own — Branding",
-      "tag": "Branding | FinTech",
-      "href": "https://www.behance.net/gallery/249360415/Branding-Own",
-      "art": 0,
-      "size": 1.5,
-      "cover": "images/6c396cd37c5f68.webp",
-      "hero": "images/3c1e505d43417a.webp",
-      "heroFit": "framed",
-      "brief": "Own is a borderless, permissionless DeFi protocol that brings true ownership to real-world assets by enabling users to mint and invest in fully backed, tokenised, stocks, commodities, and indices onchain using stablecoins.",
-      "facts": [
-        {
-          "label": "Domain",
-          "value": "FinTech"
-        },
-        {
-          "label": "Scope",
-          "value": "Branding, Brand Guidelines"
-        },
-        {
-          "label": "Year",
-          "value": "2026 "
-        }
-      ],
-      "linkLabel": "View project ↗",
-      "gap": 0,
-      "bg": "#1b1b1d",
-      "heroBg": "",
-      "ink": "auto",
-      "blocks": [
-        {
-          "t": "img",
-          "src": "images/c172ecc4334dc5.webp",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "img",
-          "src": "images/20ecd6ba821335.webp",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "img",
-          "src": "images/076069e4054813.webp",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "img",
-          "src": "images/1e199cd01526a3.webp",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "img",
-          "src": "images/0cfbeac3aa0780.webp",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "img",
-          "src": "images/e03ea6226a3745.webp",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "gallery",
-          "srcs": [
-            "images/d6a8bf7fa607af.webp",
-            "images/f6f1b1fa2ea735.webp"
-          ],
-          "cols": 2
-        },
-        {
-          "t": "img",
-          "src": "images/c6afd2379a7301.webp",
-          "caption": "",
-          "size": "full"
-        },
-        {
-          "t": "img",
-          "src": "images/1c19456fd787de.webp",
-          "caption": "",
-          "size": "full"
-        }
-      ]
-    },
-    {
-      "cluster": "branding",
       "title": "Abundance Festival ",
       "tag": "Branding | Event",
       "href": "https://www.behance.net/gallery/256434913/Branding-Abundance-Festival-(WIP)",
       "art": 1,
-      "size": 1.5,
+      "size": 1.7,
       "cover": "images/c584bf7f78f8d2.webp",
       "hero": "images/6a1b355cd57f5e.webp",
       "heroFit": "framed",
@@ -155,6 +66,7 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
+      "titleScale": 1,
       "blocks": [
         {
           "t": "img",
@@ -216,11 +128,103 @@
     },
     {
       "cluster": "branding",
+      "title": "Own — Branding",
+      "tag": "Branding | FinTech",
+      "href": "https://www.behance.net/gallery/249360415/Branding-Own",
+      "art": 0,
+      "size": 1.5,
+      "cover": "images/6c396cd37c5f68.webp",
+      "hero": "images/3c1e505d43417a.webp",
+      "heroFit": "framed",
+      "brief": "Own is a borderless, permissionless DeFi protocol that brings true ownership to real-world assets by enabling users to mint and invest in fully backed, tokenised, stocks, commodities, and indices onchain using stablecoins.",
+      "facts": [
+        {
+          "label": "Domain",
+          "value": "FinTech"
+        },
+        {
+          "label": "Scope",
+          "value": "Branding, Brand Guidelines"
+        },
+        {
+          "label": "Year",
+          "value": "2026 "
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 0,
+      "bg": "#1b1b1d",
+      "heroBg": "",
+      "ink": "auto",
+      "titleScale": 1,
+      "blocks": [
+        {
+          "t": "img",
+          "src": "images/c172ecc4334dc5.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/20ecd6ba821335.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/076069e4054813.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/1e199cd01526a3.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/0cfbeac3aa0780.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/e03ea6226a3745.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/d6a8bf7fa607af.webp",
+            "images/f6f1b1fa2ea735.webp"
+          ],
+          "cols": 2
+        },
+        {
+          "t": "img",
+          "src": "images/c6afd2379a7301.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/1c19456fd787de.webp",
+          "caption": "",
+          "size": "full"
+        }
+      ]
+    },
+    {
+      "cluster": "branding",
       "title": "Citizen Stack ",
       "tag": "Branding | Visual Identity",
       "href": "https://www.behance.net/gallery/203694791/Branding-Citizen-Stack",
       "art": 2,
-      "size": 1,
+      "size": 1.5,
+      "cover": "images/1347663fd9a1ea.webp",
+      "hero": "images/d8d3d3a6d144b6.webp",
       "heroFit": "framed",
       "brief": "Citizen Stack is focused on building and promoting digital public infrastructure, inspired by India's successful approach in leveraging technology for inclusiveness. They aim to share these innovations globally, encouraging other nations to develop their own digital infrastructure for enhanced citizen services.<p>A digital world makes us all equal. It's accessible and inclusive. Everyone has the same access. The same opportunity. At the same time.</p>",
       "facts": [
@@ -242,6 +246,7 @@
       "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
+      "titleScale": 1,
       "blocks": [
         {
           "t": "img",
@@ -309,67 +314,110 @@
           "caption": "",
           "size": "full"
         }
-      ],
-      "hero": "images/d8d3d3a6d144b6.webp",
-      "cover": "images/1347663fd9a1ea.webp"
+      ]
     },
     {
       "cluster": "branding",
-      "title": "Prism — Developer tools",
-      "tag": "branding | tech",
-      "href": "#",
+      "title": "Madhosh ",
+      "tag": "Branding | Packaging | Visual Identity",
+      "href": "https://www.behance.net/gallery/254355411/Packaging-Design-Branding-Madhosh",
       "art": 3,
-      "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
+      "size": 1.7,
+      "heroFit": "framed",
+      "brief": "<span class=\"fs fs2\">Featured on Packaging of the World:</span><p><a href=\"https://Featured on Packaging of the World: https://packagingoftheworld.com/2026/09/madhosh-packaging-design.html\" target=\"_blank\" rel=\"noopener\"><span class=\"fs fs2\">https://packagingoftheworld.com/2026/09/madhosh-packaging-design.html</span></a></p><p>Alcohol is almost always enjoyed chilled - over ice, on the rocks, or straight from the fridge. Madhosh takes that familiar relationship evenf urther, turning alcohol into a frozen cocktail. </p><p>Made with native Indian spirits like Mahua, Feni, and Apong, the product brings regional ingredients into a playful, contemporary format designed for a curious Gen Z audience looking for new experienc, flavours, and a slower, floaty buzz.</p>",
       "facts": [
         {
-          "label": "Client",
-          "value": ""
-        },
-        {
-          "label": "Scope",
-          "value": ""
+          "label": "Domain",
+          "value": "Alcohol | Frozen Popsicle"
         },
         {
           "label": "Timeline",
-          "value": ""
+          "value": "4 Weeks (Classroom Project)"
+        },
+        {
+          "label": "Year",
+          "value": "2026"
         }
       ],
       "linkLabel": "View project ↗",
-      "gap": 24,
-      "bg": "#1b1b1d",
+      "gap": 0,
+      "bg": "#212121",
       "heroBg": "",
-      "ink": "auto"
-    },
-    {
-      "cluster": "branding",
-      "title": "Marigold — Tea identity",
-      "tag": "branding | illustrative",
-      "href": "#",
-      "art": 4,
-      "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
-      "facts": [
+      "ink": "auto",
+      "titleScale": 1,
+      "blocks": [
         {
-          "label": "Client",
-          "value": ""
+          "t": "img",
+          "src": "images/e25c28f41fd43c.webp",
+          "caption": "",
+          "size": "full"
         },
         {
-          "label": "Scope",
-          "value": ""
+          "t": "img",
+          "src": "images/5ad058bc26d510.gif",
+          "caption": "",
+          "size": "full"
         },
         {
-          "label": "Timeline",
-          "value": ""
+          "t": "img",
+          "src": "images/e453f2a698b478.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/90300bad7312c8.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/f5c1995fb43b08.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/f1dbcc1a3f7e26.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/3e34bfbe49a6b4.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/e6fcec07350d7e.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/975490a58ea0b9.gif",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/fcb0645515de6c.webp",
+            "images/e0e5a44c67b9b6.webp",
+            "images/863280de62bc8c.webp"
+          ],
+          "cols": 3
+        },
+        {
+          "t": "img",
+          "src": "images/6d6c9a03bd63c6.webp",
+          "caption": "",
+          "size": "full"
         }
       ],
-      "linkLabel": "View project ↗",
-      "gap": 24,
-      "bg": "#1b1b1d",
-      "heroBg": "",
-      "ink": "auto"
+      "hero": "images/7d33f121d578ad.webp",
+      "cover": "images/66e34ab7173218.webp"
     },
     {
       "cluster": "films",
@@ -398,7 +446,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "films",
@@ -427,7 +476,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "films",
@@ -456,7 +506,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "designs",
@@ -485,7 +536,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "designs",
@@ -514,7 +566,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "designs",
@@ -543,7 +596,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "designs",
@@ -572,7 +626,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "designs",
@@ -601,7 +656,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "others",
@@ -630,7 +686,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "others",
@@ -659,7 +716,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "others",
@@ -688,7 +746,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     },
     {
       "cluster": "others",
@@ -717,7 +776,8 @@
       "gap": 24,
       "bg": "#1b1b1d",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "titleScale": 1
     }
   ],
   "about": {
@@ -768,9 +828,20 @@
       "dy": 1330
     },
     "under": {
-      "dx": 207,
-      "dy": -58
+      "dx": -15,
+      "dy": -61
     }
   },
+  "tsize": {
+    "nav.work": 0.85,
+    "nav.about": 0.85,
+    "nav.resume": 0.85,
+    "sticker.under": 1.45
+  },
+  "gridFx": [
+    "drift"
+  ],
+  "bg": "grid",
+  "gridMotion": 40,
   "items": []
 }
