@@ -635,7 +635,7 @@
       "tag": "Social Media | Style Frames | Collaterals",
       "href": "https://www.behance.net/gallery/203249159/Brand-Designs-Social-Media-Loop",
       "art": 5,
-      "size": 1,
+      "size": 1.6,
       "heroFit": "framed",
       "brief": "Loop is India's first Health Assurance company, offering a comprehensive healthcare system that emphasizes preventive care over reactive treatment. They provide customized group insurance and primary healthcare services, leveraging data and technology to enhance employee health and productivity.<p><br></p><p>My work included designing social media posts, print collaterals and style frames for animated videos, which specifically included custom illustrations for that piece</p>",
       "facts": [
@@ -681,10 +681,27 @@
           "size": "full"
         },
         {
-          "t": "img",
-          "src": "",
-          "caption": "",
-          "size": "full"
+          "t": "p",
+          "html": "<span class=\"fs fs2\">YEAR END VIDEO</span>"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/023f643dcd48c2.webp",
+            "images/00edb8b0d1d995.webp",
+            "images/08dc5ab74baf49.webp",
+            "images/d6331a7c40da21.webp",
+            "images/7758508192fc50.webp",
+            "images/911f4c1abdef19.webp"
+          ],
+          "cols": 3
+        },
+        {
+          "t": "video",
+          "url": "",
+          "vid": "",
+          "src": "videos/1e843f9fcb390e.mp4",
+          "name": "video.mp4"
         }
       ],
       "hero": "images/7f4cf85faa3be9.webp",
@@ -692,127 +709,167 @@
     },
     {
       "cluster": "designs",
-      "title": "Deep Crust — Menu poster",
-      "tag": "brand designs | print",
+      "title": "Chopserve",
+      "tag": "Social Media | Print Designs | OOH Designs",
       "href": "#",
       "art": 6,
-      "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
+      "size": 1.4,
+      "heroFit": "framed",
+      "brief": "ChopServe is a brand specializing in the delivery of fresh, high-quality meats and seafood directly to consumers. They offer a wide range of products, including chicken, mutton, fish, seafood, and ready-to-cook items, with a focus on freshness and convenience.",
       "facts": [
         {
-          "label": "Client",
-          "value": ""
+          "label": "Agency",
+          "value": "OWLED Media Inc."
         },
         {
           "label": "Scope",
-          "value": ""
+          "value": "Social Media, Print Designs, OOH Designs"
         },
         {
-          "label": "Timeline",
-          "value": ""
+          "label": "Year",
+          "value": "2024"
         }
       ],
       "linkLabel": "View project ↗",
-      "gap": 24,
-      "bg": "#1b1b1d",
+      "gap": 8,
+      "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
       "titleScale": 1,
-      "heroGap": 32
-    },
-    {
-      "cluster": "designs",
-      "title": "Marigold — Packaging",
-      "tag": "brand designs | print",
-      "href": "#",
-      "art": 7,
-      "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
-      "facts": [
+      "heroGap": 28,
+      "blocks": [
         {
-          "label": "Client",
-          "value": ""
+          "t": "p",
+          "html": "<span class=\"fs fs2\">SOCIAL MEDIA </span>"
         },
         {
-          "label": "Scope",
-          "value": ""
+          "t": "img",
+          "src": "images/88a3aa4c77bbc1.webp",
+          "caption": "",
+          "size": "full"
         },
         {
-          "label": "Timeline",
-          "value": ""
+          "t": "p",
+          "html": "<span class=\"fs fs2\">PRINT &amp; OOH DESIGNS</span>"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/fcb8911a7ed9a7.webp",
+            "images/4f845e94016a73.webp"
+          ],
+          "cols": 2
+        },
+        {
+          "t": "img",
+          "src": "images/8342c40d4bc382.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/6295f84ebe4fe9.webp",
+            "images/3ee7c64f0149f9.webp"
+          ],
+          "cols": 2
+        },
+        {
+          "t": "img",
+          "src": "images/82bf765ad5d30f.webp",
+          "caption": "",
+          "size": "full"
         }
       ],
-      "linkLabel": "View project ↗",
-      "gap": 24,
-      "bg": "#1b1b1d",
-      "heroBg": "",
-      "ink": "auto",
-      "titleScale": 1,
-      "heroGap": 32
+      "hero": "images/e0fb00350f6d11.webp",
+      "cover": "images/75a7ec058416b0.webp"
     },
     {
       "cluster": "designs",
-      "title": "Skylark — Story set",
-      "tag": "brand designs | social media",
-      "href": "#",
-      "art": 8,
-      "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
-      "facts": [
-        {
-          "label": "Client",
-          "value": ""
-        },
-        {
-          "label": "Scope",
-          "value": ""
-        },
-        {
-          "label": "Timeline",
-          "value": ""
-        }
-      ],
-      "linkLabel": "View project ↗",
-      "gap": 24,
-      "bg": "#1b1b1d",
-      "heroBg": "",
-      "ink": "auto",
-      "titleScale": 1,
-      "heroGap": 32
-    },
-    {
-      "cluster": "designs",
-      "title": "Prism — Stationery",
-      "tag": "brand designs | print",
-      "href": "#",
+      "title": "Flipkart Seller Hub",
+      "tag": "Wall Illustration | Podcast Designs | Visual Design System",
+      "href": "https://www.behance.net/gallery/248060107/Wall-Illustration-Podcast-Branding-Flipkart",
       "art": 9,
-      "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
+      "size": 1.6,
+      "heroFit": "framed",
+      "brief": "Flipkart Seller Hub is a platform that enables businesses &amp; individuals to sell their products on Flipkart, supporting them across onboarding, operations, and growth. The podcast 'One in a Billion' is an educational and conversational series that brings sellers and experts to share insights, experiences, and practical knowledge around building and scaling an online business.",
       "facts": [
         {
-          "label": "Client",
-          "value": ""
+          "label": "Agency",
+          "value": "OWLED Media Inc."
         },
         {
           "label": "Scope",
-          "value": ""
+          "value": "Visual Design System, Overlay Style Frame Designs, Backdrop Illustration"
         },
         {
-          "label": "Timeline",
-          "value": ""
+          "label": "Year",
+          "value": "2025"
         }
       ],
       "linkLabel": "View project ↗",
-      "gap": 24,
-      "bg": "#1b1b1d",
+      "gap": 12,
+      "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
       "titleScale": 1,
-      "heroGap": 32
+      "heroGap": 32,
+      "blocks": [
+        {
+          "t": "p",
+          "html": "<span class=\"fs fs2\">LOGO EXPLORATIONS</span>"
+        },
+        {
+          "t": "img",
+          "src": "images/82e388df3c68c2.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "p",
+          "html": "TITLE SCREEN DESIGN (LOGO NOT DESIGNED BY ME)"
+        },
+        {
+          "t": "img",
+          "src": "images/94c37296bc6407.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "p",
+          "html": "<span class=\"fs fs2\">OVERLAY DESIGNS:</span><p><span class=\"fs fs2\">The overlay frames were designed as flexible visuals that complement the set while enhancing on-screen communication. These includes lower thirds, highlight bands, and callout pop-ups that simplify key concepts without interrupting the flow of conversation. Drawing from the same visual language as the backdrop, the overlays use bold shapes, minimal iconography with strokes, and a consistent color palette.</span></p>"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/a9ee18c50b879f.webp",
+            "images/b0df3eb993830f.gif"
+          ],
+          "cols": 2
+        },
+        {
+          "t": "img",
+          "src": "images/d1183b4192bf2c.gif",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/bbe2e562e013ae.webp",
+            "images/389c17fb3531fd.gif"
+          ],
+          "cols": 2
+        },
+        {
+          "t": "img",
+          "src": "images/786fb329dfb323.gif",
+          "caption": "",
+          "size": "full"
+        }
+      ],
+      "hero": "images/5edb239f3abccd.webp",
+      "cover": "images/77b435899305db.webp"
     },
     {
       "cluster": "others",
