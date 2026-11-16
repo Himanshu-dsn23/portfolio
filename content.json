@@ -962,6 +962,8 @@
       "href": "https://www.behance.net/gallery/255882039/Publication-Design-A-Work-that-Worked",
       "art": 10,
       "size": 1.4,
+      "cover": "images/3e07288d850a60.webp",
+      "hero": "images/2dc1ad060a8e36.webp",
       "heroFit": "framed",
       "brief": "<span class=\"fs fs2\">A publication exploring the making of Works That Work, based on Peter Biľak’s documentation of the magazine’s journey. The project brings this process together through editorial design, layouts, and visuals.</span>",
       "facts": [
@@ -1005,6 +1007,12 @@
           "size": "full"
         },
         {
+          "t": "embed",
+          "url": "<iframe allowfullscreen allow=\"autoplay\" scrolling=\"no\" style=\"width: 100%; height: 700px; border: 1px solid lightgray;\" src=\"https://heyzine.com/flip-book/588c257ceb.html\" sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+          "ratio": "16/9",
+          "h": 600
+        },
+        {
           "t": "img",
           "src": "images/5e7e9e5090d27a.webp",
           "caption": "",
@@ -1022,9 +1030,7 @@
           "caption": "",
           "size": "full"
         }
-      ],
-      "hero": "images/2dc1ad060a8e36.webp",
-      "cover": "images/3e07288d850a60.webp"
+      ]
     },
     {
       "cluster": "others",
@@ -1032,7 +1038,9 @@
       "tag": "UX Design & Research | App Feature",
       "href": "https://www.behance.net/gallery/256325743/UX-DesignResearch-App-Feature-Groww-Assistant",
       "art": 11,
-      "size": 1,
+      "size": 1.5,
+      "cover": "images/ebb2ad11ea8917.webp",
+      "hero": "images/11573603ff4950.webp",
       "heroFit": "framed",
       "brief": "<span class=\"fs fs2\">A hypothetical feature for the Groww app developed as a part of the UX Design course at MIT Institute of Design.</span>",
       "facts": [
@@ -1104,10 +1112,18 @@
           "src": "images/5bc286f1b3fa38.gif",
           "caption": "",
           "size": "full"
+        },
+        {
+          "t": "p",
+          "html": "<span class=\"fs fs2\">PROTOTYPE:</span>"
+        },
+        {
+          "t": "embed",
+          "url": "<iframe style=\"border: 1px solid rgba(0, 0, 0, 0.1);\" width=\"800\" height=\"450\" src=\"https://embed.figma.com/proto/lMAK2PGrvuoqPoMJyQubGa/Human-Factors-UX?page-id=196%3A17293&amp;node-id=196-20782&amp;viewport=1671%2C592%2C0.37&amp;scaling=contain&amp;content-scaling=responsive&amp;starting-point-node-id=196%3A17402&amp;embed-host=share\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox\"></iframe>",
+          "ratio": "16/9",
+          "h": 600
         }
-      ],
-      "hero": "images/11573603ff4950.webp",
-      "cover": "images/ebb2ad11ea8917.webp"
+      ]
     },
     {
       "cluster": "others",
