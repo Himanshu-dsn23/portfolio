@@ -1248,9 +1248,10 @@
     "about.title": 0.6
   },
   "gridFx": [
-    "drift"
+    "drift",
+    "twinkle"
   ],
   "bg": "grid",
-  "gridMotion": 40,
+  "gridMotion": 35,
   "items": []
 }
