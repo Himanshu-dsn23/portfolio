@@ -1218,40 +1218,6 @@
         }
       ],
       "cover": "images/83a3bd8be45181.webp"
-    },
-    {
-      "cluster": "others",
-      "title": "Design research thesis",
-      "tag": "others | research",
-      "href": "#",
-      "art": 13,
-      "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
-      "hideTitle": false,
-      "hideBrief": false,
-      "hideFacts": false,
-      "facts": [
-        {
-          "label": "Client",
-          "value": ""
-        },
-        {
-          "label": "Scope",
-          "value": ""
-        },
-        {
-          "label": "Timeline",
-          "value": ""
-        }
-      ],
-      "linkLabel": "View project ↗",
-      "gap": 24,
-      "bg": "#1b1b1d",
-      "heroBg": "",
-      "ink": "auto",
-      "titleScale": 1,
-      "heroGap": 32
     }
   ],
   "about": {
@@ -1302,16 +1268,16 @@
       "dy": -19
     },
     "others": {
-      "dx": 109,
-      "dy": -128
+      "dx": -14,
+      "dy": -121
     },
     "about": {
       "dx": 34,
       "dy": -6
     },
     "resume": {
-      "dx": -1018,
-      "dy": 1312
+      "dx": -1054,
+      "dy": 1273
     },
     "under": {
       "dx": -15,
