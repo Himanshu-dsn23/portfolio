@@ -421,33 +421,59 @@
     },
     {
       "cluster": "films",
-      "title": "Ledger — Launch film",
-      "tag": "brand films",
-      "href": "#",
+      "title": "Slick ",
+      "tag": "Illustration | Style Frames",
+      "href": "https://www.behance.net/gallery/203582083/Brand-Film-Designs-Slick",
       "art": 0,
       "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
+      "heroFit": "framed",
+      "brief": "Slick App is a social media app for colleges and schools where users can share compliments anonymously. Slick is intended to be for socializing with friends where users can only communicate with those they have accepted as friends and only through polls.",
       "facts": [
         {
-          "label": "Client",
-          "value": ""
+          "label": "Agency",
+          "value": "OWLED Media Inc."
         },
         {
           "label": "Scope",
-          "value": ""
+          "value": "Style Frames | Illustration "
         },
         {
-          "label": "Timeline",
-          "value": ""
+          "label": "Year",
+          "value": "2024"
         }
       ],
       "linkLabel": "View project ↗",
-      "gap": 24,
-      "bg": "#1b1b1d",
+      "gap": 0,
+      "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1
+      "titleScale": 1,
+      "blocks": [
+        {
+          "t": "img",
+          "src": "",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/ad04e163ff423f.webp",
+            "images/484a872ad55923.webp",
+            "images/6aee5987abb593.webp",
+            "images/1ada16a0272f65.webp",
+            "images/7cca02b758e598.webp",
+            "images/562f653a470930.webp"
+          ],
+          "cols": 3
+        },
+        {
+          "t": "video",
+          "url": ""
+        }
+      ],
+      "hero": "images/be3e8ff14b7f87.webp",
+      "cover": "images/959634c2b14dd1.webp"
     },
     {
       "cluster": "films",
