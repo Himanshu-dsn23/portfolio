@@ -50,6 +50,9 @@
       "hero": "images/6a1b355cd57f5e.webp",
       "heroFit": "framed",
       "brief": "Abundance Festival, is a celebration of the richness of human life and the extraordinary possibilities around us. Bringing together perspectives from science, culture, philosophy, spirituality, technology, ecology and the arts, the festival explores abundance beyond material prosperity, with a focus on India's diverse traditions, communities and contemporary voices.",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Domain",
@@ -141,6 +144,9 @@
       "hero": "images/3c1e505d43417a.webp",
       "heroFit": "framed",
       "brief": "Own is a borderless, permissionless DeFi protocol that brings true ownership to real-world assets by enabling users to mint and invest in fully backed, tokenised, stocks, commodities, and indices onchain using stablecoins.",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Domain",
@@ -232,6 +238,9 @@
       "hero": "images/d8d3d3a6d144b6.webp",
       "heroFit": "framed",
       "brief": "Citizen Stack is focused on building and promoting digital public infrastructure, inspired by India's successful approach in leveraging technology for inclusiveness. They aim to share these innovations globally, encouraging other nations to develop their own digital infrastructure for enhanced citizen services.<p>A digital world makes us all equal. It's accessible and inclusive. Everyone has the same access. The same opportunity. At the same time.</p>",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Domain",
@@ -333,6 +342,9 @@
       "hero": "images/7d33f121d578ad.webp",
       "heroFit": "framed",
       "brief": "<span class=\"fs fs2\">Featured on Packaging of the World:</span><p><a href=\"https://Featured on Packaging of the World: https://packagingoftheworld.com/2026/09/madhosh-packaging-design.html\" target=\"_blank\" rel=\"noopener\"><span class=\"fs fs2\">https://packagingoftheworld.com/2026/09/madhosh-packaging-design.html</span></a></p><p>Alcohol is almost always enjoyed chilled - over ice, on the rocks, or straight from the fridge. Madhosh takes that familiar relationship evenf urther, turning alcohol into a frozen cocktail. </p><p>Made with native Indian spirits like Mahua, Feni, and Apong, the product brings regional ingredients into a playful, contemporary format designed for a curious Gen Z audience looking for new experienc, flavours, and a slower, floaty buzz.</p>",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Domain",
@@ -437,6 +449,9 @@
       "hero": "images/5a00877b97b928.webp",
       "heroFit": "bleed",
       "brief": "<span class=\"fs fs2\">Smartsters is a kids' furniture brand dedicated to creating safe, comfortable, visually appealing products supporting child development. Making each piece of furniture with the needs of growing children in mind, prioritizing their emotional, physical, and mental well-being.</span><p><span class=\"fs fs2\"><br></span></p><p><span class=\"fs fs2\"><span class=\"fs fs2\">BASE CONCEPT</span></span></p><p><span class=\"fs fs2\">The concept was to show a video game that was on pause and the two characters are having a conversation.</span></p>",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Agency",
@@ -536,6 +551,9 @@
       "hero": "images/be3e8ff14b7f87.webp",
       "heroFit": "framed",
       "brief": "Slick App is a social media app for colleges and schools where users can share compliments anonymously. Slick is intended to be for socializing with friends where users can only communicate with those they have accepted as friends and only through polls.",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Agency",
@@ -590,6 +608,9 @@
       "hero": "images/3882aeb87f8285.webp",
       "heroFit": "framed",
       "brief": "<span class=\"fs fs2\">Sqrrl is a digital platform that simplifies investments and savings for individuals, offering various investment options like mutual funds, digital gold, and fixed deposits. They focus on making financial planning accessible and manageable with personalized advice and goal-based investing. </span>",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Agency",
@@ -695,6 +716,9 @@
       "hero": "images/7f4cf85faa3be9.webp",
       "heroFit": "framed",
       "brief": "Loop is India's first Health Assurance company, offering a comprehensive healthcare system that emphasizes preventive care over reactive treatment. They provide customized group insurance and primary healthcare services, leveraging data and technology to enhance employee health and productivity.<p><br></p><p>My work included designing social media posts, print collaterals and style frames for animated videos, which specifically included custom illustrations for that piece</p>",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Agency",
@@ -773,6 +797,9 @@
       "hero": "images/e0fb00350f6d11.webp",
       "heroFit": "framed",
       "brief": "ChopServe is a brand specializing in the delivery of fresh, high-quality meats and seafood directly to consumers. They offer a wide range of products, including chicken, mutton, fish, seafood, and ready-to-cook items, with a focus on freshness and convenience.",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Agency",
@@ -850,6 +877,9 @@
       "hero": "images/5edb239f3abccd.webp",
       "heroFit": "framed",
       "brief": "<span class=\"fs fs2\">Flipkart Seller Hub is a platform that enables businesses &amp; individuals to sell their products on Flipkart, supporting them across onboarding, operations, and growth. The podcast 'One in a Billion' is an educational and conversational series that brings sellers and experts to share insights, experiences, and practical knowledge around building and scaling an online business.</span>",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Agency",
@@ -969,6 +999,9 @@
       "hero": "images/2dc1ad060a8e36.webp",
       "heroFit": "framed",
       "brief": "<span class=\"fs fs2\">A publication exploring the making of Works That Work, based on Peter Biľak’s documentation of the magazine’s journey. The project brings this process together through editorial design, layouts, and visuals.</span>",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Organization",
@@ -1046,6 +1079,9 @@
       "hero": "images/11573603ff4950.webp",
       "heroFit": "framed",
       "brief": "<span class=\"fs fs2\">A hypothetical feature for the Groww app developed as a part of the UX Design course at MIT Institute of Design.</span>",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Organization",
@@ -1132,11 +1168,14 @@
       "cluster": "others",
       "title": "Digital Paintings",
       "tag": "Illustrations | Digital Art",
-      "href": "#",
+      "href": "https://www.behance.net/gallery/141848057/Digital-Paintings-1",
       "art": 12,
-      "size": 1,
+      "size": 1.55,
       "heroFit": "bleed",
       "brief": "",
+      "hideTitle": true,
+      "hideBrief": true,
+      "hideFacts": true,
       "facts": [
         {
           "label": "Client",
@@ -1158,7 +1197,27 @@
       "ink": "auto",
       "titleScale": 0.8,
       "heroGap": 32,
-      "blocks": []
+      "blocks": [
+        {
+          "t": "img",
+          "src": "images/1fdc963d2c1a81.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/0e2a0632c51f57.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/5eb7d693e7a3e0.webp",
+          "caption": "",
+          "size": "full"
+        }
+      ],
+      "cover": "images/83a3bd8be45181.webp"
     },
     {
       "cluster": "others",
@@ -1169,6 +1228,9 @@
       "size": 1,
       "heroFit": "bleed",
       "brief": "",
+      "hideTitle": false,
+      "hideBrief": false,
+      "hideFacts": false,
       "facts": [
         {
           "label": "Client",
@@ -1203,6 +1265,10 @@
     "link2": {
       "label": "Email",
       "href": "mailto:himanshusingh2309@gmail.com"
+    },
+    "link3": {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/"
     }
   },
   "resume": {
@@ -1223,21 +1289,29 @@
     "more": "More projects"
   },
   "layout": {
+    "branding": {
+      "dx": -22,
+      "dy": 1
+    },
     "films": {
       "dx": 0,
       "dy": -48
     },
     "designs": {
-      "dx": 36,
-      "dy": 23
+      "dx": 42,
+      "dy": -19
     },
     "others": {
-      "dx": 99,
-      "dy": -59
+      "dx": 109,
+      "dy": -128
+    },
+    "about": {
+      "dx": 34,
+      "dy": -6
     },
     "resume": {
-      "dx": -1029,
-      "dy": 1330
+      "dx": -1018,
+      "dy": 1312
     },
     "under": {
       "dx": -15,
