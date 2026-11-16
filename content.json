@@ -22,17 +22,20 @@
   },
   "clusters": {
     "branding": {
-      "title": "Branding"
+      "title": "Branding",
+      "subtitle": ""
     },
     "films": {
-      "title": "Brand Films"
+      "title": "Brand Films",
+      "subtitle": ""
     },
     "designs": {
       "title": "Brand Designs",
       "subtitle": "social media / print"
     },
     "others": {
-      "title": "Others"
+      "title": "Others",
+      "subtitle": ""
     }
   },
   "projects": [
@@ -66,7 +69,7 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
+      "titleScale": 0.8,
       "heroGap": 32,
       "blocks": [
         {
@@ -157,7 +160,7 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
+      "titleScale": 0.8,
       "heroGap": 32,
       "blocks": [
         {
@@ -248,7 +251,7 @@
       "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
+      "titleScale": 0.8,
       "heroGap": 32,
       "blocks": [
         {
@@ -349,7 +352,7 @@
       "bg": "#212121",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
+      "titleScale": 0.8,
       "heroGap": 32,
       "blocks": [
         {
@@ -453,7 +456,7 @@
       "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
+      "titleScale": 0.8,
       "heroGap": 28,
       "blocks": [
         {
@@ -552,7 +555,7 @@
       "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
+      "titleScale": 0.8,
       "heroGap": 32,
       "blocks": [
         {
@@ -606,7 +609,7 @@
       "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
+      "titleScale": 0.8,
       "heroGap": 36,
       "blocks": [
         {
@@ -711,7 +714,7 @@
       "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
+      "titleScale": 0.8,
       "heroGap": 28,
       "blocks": [
         {
@@ -789,7 +792,7 @@
       "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
+      "titleScale": 0.8,
       "heroGap": 28,
       "blocks": [
         {
@@ -866,7 +869,7 @@
       "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 0.75,
+      "titleScale": 0.8,
       "heroGap": 32,
       "blocks": [
         {
@@ -985,7 +988,7 @@
       "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
+      "titleScale": 0.8,
       "heroGap": 32,
       "blocks": [
         {
@@ -1127,8 +1130,8 @@
     },
     {
       "cluster": "others",
-      "title": "Icon set",
-      "tag": "others | icons",
+      "title": "Digital Paintings",
+      "tag": "Illustrations | Digital Art",
       "href": "#",
       "art": 12,
       "size": 1,
@@ -1153,8 +1156,9 @@
       "bg": "#1b1b1d",
       "heroBg": "",
       "ink": "auto",
-      "titleScale": 1,
-      "heroGap": 32
+      "titleScale": 0.8,
+      "heroGap": 32,
+      "blocks": []
     },
     {
       "cluster": "others",
@@ -1248,10 +1252,9 @@
     "about.title": 0.6
   },
   "gridFx": [
-    "drift",
-    "twinkle"
+    "drift"
   ],
   "bg": "grid",
-  "gridMotion": 35,
+  "gridMotion": 40,
   "items": []
 }
