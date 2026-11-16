@@ -1358,9 +1358,10 @@ body.pend #stage{opacity:0;animation:unpend 0s 3s forwards}@keyframes unpend{to{
   }
 
   /* ---------- image upload (resize + compress in the browser) ---------- */
+  function ftype(f){var t=f.type||'',m=(f.name||'').toLowerCase().match(/\.(gif|svg|png|jpe?g|webp|avif)$/);if(/^image\//.test(t)&&!(t==='image/gif'&&0))return t;return m?{gif:'image/gif',svg:'image/svg+xml',png:'image/png',jpg:'image/jpeg',jpeg:'image/jpeg',webp:'image/webp',avif:'image/avif'}[m[1]]:t}
   function readImg(file,max,q,cb){
-    if(!/^image\//.test(file.type))return cb(null);
-    if(file.type==='image/svg+xml'||(file.type==='image/gif'&&file.size<4e6)){var fr=new FileReader();fr.onload=function(){cb(fr.result)};fr.onerror=function(){cb(null)};fr.readAsDataURL(file);return}
+    var ty=ftype(file);if(!/^image\//.test(ty))return cb(null);
+    if(ty==='image/svg+xml'||(ty==='image/gif'&&file.size<=10e6)){var fr=new FileReader();fr.onload=function(){var r=fr.result;if(typeof r==='string'&&r.indexOf('data:image/')!==0)r=r.replace(/^data:[^;,]*/,'data:'+ty);cb(r)};fr.onerror=function(){cb(null)};fr.readAsDataURL(file);return}
     var url=URL.createObjectURL(file),im=new Image();
     im.onload=function(){
       var s=Math.min(1,max/Math.max(im.naturalWidth,im.naturalHeight)),w=Math.max(1,Math.round(im.naturalWidth*s)),h=Math.max(1,Math.round(im.naturalHeight*s)),c=document.createElement('canvas');
@@ -1370,8 +1371,8 @@ body.pend #stage{opacity:0;animation:unpend 0s 3s forwards}@keyframes unpend{to{
     im.onerror=function(){URL.revokeObjectURL(url);cb(null)};im.src=url
   }
   function readCover(file,cb){
-    if(!/^image\//.test(file.type))return cb(null);
-    if(file.type==='image/svg+xml'||file.type==='image/gif')return readImg(file,1000,.85,cb);
+    var ty=ftype(file);if(!/^image\//.test(ty))return cb(null);
+    if(ty==='image/svg+xml'||ty==='image/gif')return readImg(file,1000,.85,cb);
     var url=URL.createObjectURL(file),im=new Image();
     im.onload=function(){var W=808,H=632,k=Math.max(W/im.naturalWidth,H/im.naturalHeight),w=im.naturalWidth*k,h=im.naturalHeight*k,c=document.createElement('canvas');
       c.width=W;c.height=H;c.getContext('2d').drawImage(im,(W-w)/2,(H-h)/2,w,h);
@@ -1496,7 +1497,7 @@ body.pend #stage{opacity:0;animation:unpend 0s 3s forwards}@keyframes unpend{to{
     PJ().blocks.splice(k,0,blank(t));commit();draw();
     var n=col.querySelectorAll('.blk')[k];if(n){n.scrollIntoView({block:'center',behavior:'smooth'});var f=n.querySelector('.rte,.bin,textarea');if(f)f.focus({preventScroll:true})}
   }
-  function isImg(f){return /^image\//.test(f.type)}
+  function isImg(f){return /^image\//.test(ftype(f))}
   function addImages(files,k){
     readMany(files.filter(isImg),1800,.84,function(o){
       if(!o.length){setSt('No readable images in that selection',true);return}
