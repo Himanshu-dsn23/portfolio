@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "title": "Himanshu — Visual Designer / Illustrator"
+  },
+  "logo": {
+    "alt": "Himanshu’s Playground — Himanshu Singh Chauhan"
+  },
+  "sticker": {
+    "under": "and Claude."
+  },
+  "hero": {
+    "tagline": "Visual Designer and Illustrator with a passion for storytelling, brand identity, and all areas of communication design."
+  },
+  "nav": {
+    "work": "Work",
+    "about": "About / Contact",
+    "resume": "Resume",
+    "branding": "Branding",
+    "films": "Brand Films",
+    "designs": "Brand Designs",
+    "others": "Others"
+  },
+  "clusters": {
+    "branding": {
+      "title": "Branding"
+    },
+    "films": {
+      "title": "Brand Films"
+    },
+    "designs": {
+      "title": "Brand Designs",
+      "subtitle": "social media / print"
+    },
+    "others": {
+      "title": "Others"
+    }
+  },
+  "projects": [
+    {
+      "cluster": "branding",
+      "title": "Ledger — Fintech identity",
+      "tag": "branding | tech",
+      "href": "#",
+      "art": 0
+    },
+    {
+      "cluster": "branding",
+      "title": "Skylark — Insurance",
+      "tag": "branding | illustrative",
+      "href": "#",
+      "art": 1
+    },
+    {
+      "cluster": "branding",
+      "title": "Deep Crust Co. — Bakery",
+      "tag": "branding | illustrative",
+      "href": "#",
+      "art": 2
+    },
+    {
+      "cluster": "branding",
+      "title": "Prism — Developer tools",
+      "tag": "branding | tech",
+      "href": "#",
+      "art": 3
+    },
+    {
+      "cluster": "branding",
+      "title": "Marigold — Tea identity",
+      "tag": "branding | illustrative",
+      "href": "#",
+      "art": 4
+    },
+    {
+      "cluster": "films",
+      "title": "Ledger — Launch film",
+      "tag": "brand films",
+      "href": "#",
+      "art": 0
+    },
+    {
+      "cluster": "films",
+      "title": "Skylark — 30s spot",
+      "tag": "brand films",
+      "href": "#",
+      "art": 1
+    },
+    {
+      "cluster": "films",
+      "title": "Prism — Product teaser",
+      "tag": "brand films",
+      "href": "#",
+      "art": 2
+    },
+    {
+      "cluster": "designs",
+      "title": "Ledger — Launch posts",
+      "tag": "brand designs | social media",
+      "href": "#",
+      "art": 5
+    },
+    {
+      "cluster": "designs",
+      "title": "Deep Crust — Menu poster",
+      "tag": "brand designs | print",
+      "href": "#",
+      "art": 6
+    },
+    {
+      "cluster": "designs",
+      "title": "Marigold — Packaging",
+      "tag": "brand designs | print",
+      "href": "#",
+      "art": 7
+    },
+    {
+      "cluster": "designs",
+      "title": "Skylark — Story set",
+      "tag": "brand designs | social media",
+      "href": "#",
+      "art": 8
+    },
+    {
+      "cluster": "designs",
+      "title": "Prism — Stationery",
+      "tag": "brand designs | print",
+      "href": "#",
+      "art": 9
+    },
+    {
+      "cluster": "others",
+      "title": "Night Drive Reissue",
+      "tag": "others | album covers",
+      "href": "#",
+      "art": 10
+    },
+    {
+      "cluster": "others",
+      "title": "Sunday Static",
+      "tag": "others | album covers",
+      "href": "#",
+      "art": 11
+    },
+    {
+      "cluster": "others",
+      "title": "Icon set",
+      "tag": "others | icons",
+      "href": "#",
+      "art": 12
+    },
+    {
+      "cluster": "others",
+      "title": "Design research thesis",
+      "tag": "others | research",
+      "href": "#",
+      "art": 13
+    }
+  ],
+  "about": {
+    "title": "About",
+    "p1": "Detail-oriented visual designer with 4+ years in digital and print design, illustration, storyboarding and design for animated video. Storytelling sits at the center of my work.",
+    "p2": "Previously Senior Visual Designer at OWLED Media. \nCurrently pursuing M.Des from MIT Institute of Design, Pune",
+    "link1": {
+      "label": "Behance",
+      "href": "https://www.behance.net/himanshusingh_"
+    },
+    "link2": {
+      "label": "Email",
+      "href": "mailto:himanshusingh2309@gmail.com"
+    }
+  },
+  "resume": {
+    "label": "Resume",
+    "caption": "click to open",
+    "ariaLabel": "Open resume PDF"
+  },
+  "viewer": {
+    "back": "← Back to mat",
+    "title": "Resume — Himanshu Singh Chauhan",
+    "open": "Open PDF",
+    "alt": "Resume of Himanshu Singh Chauhan"
+  },
+  "ui": {
+    "hint": "drag to explore",
+    "bgMat": "Simple mat",
+    "bgGrid": "Box grid"
+  }
+}
