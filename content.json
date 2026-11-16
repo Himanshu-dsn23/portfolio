@@ -224,7 +224,7 @@
       "tag": "Branding | Visual Identity",
       "href": "https://www.behance.net/gallery/203694791/Branding-Citizen-Stack",
       "art": 2,
-      "size": 1.5,
+      "size": 1.55,
       "cover": "images/1347663fd9a1ea.webp",
       "hero": "images/d8d3d3a6d144b6.webp",
       "heroFit": "framed",
@@ -425,11 +425,110 @@
     },
     {
       "cluster": "films",
+      "title": "Smartsters",
+      "tag": "Illustrations | Key Frames",
+      "href": "https://www.behance.net/gallery/255550743/Brand-Film-Illustrations-Smartsters",
+      "art": 2,
+      "size": 1.2,
+      "cover": "images/f4095130fae9de.webp",
+      "hero": "images/5a00877b97b928.webp",
+      "heroFit": "bleed",
+      "brief": "<span class=\"fs fs2\">Smartsters is a kids' furniture brand dedicated to creating safe, comfortable, visually appealing products supporting child development. Making each piece of furniture with the needs of growing children in mind, prioritizing their emotional, physical, and mental well-being.</span><p><span class=\"fs fs2\"><br></span></p><p><span class=\"fs fs2\"><span class=\"fs fs2\">BASE CONCEPT</span></span></p><p><span class=\"fs fs2\">The concept was to show a video game that was on pause and the two characters are having a conversation.</span></p>",
+      "facts": [
+        {
+          "label": "Agency",
+          "value": "Owled Media Inc."
+        },
+        {
+          "label": "Scope",
+          "value": "Assets/Key Frames for Animation"
+        },
+        {
+          "label": "Year",
+          "value": "2025"
+        }
+      ],
+      "linkLabel": "View project ↗",
+      "gap": 12,
+      "bg": "#ffffff",
+      "heroBg": "",
+      "ink": "auto",
+      "titleScale": 1,
+      "heroGap": 28,
+      "blocks": [
+        {
+          "t": "p",
+          "html": "<p><span class=\"fs fs1\">FIRST SKETCH</span></p>"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/459966892638d1.webp",
+            "images/a4f519f7596bde.webp"
+          ],
+          "cols": 2
+        },
+        {
+          "t": "img",
+          "src": "images/0ff08c1e6fee3a.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "p",
+          "html": "<span class=\"fs fs1\">CHARACTER SHEETS</span>"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/a2caf14e37c54c.webp",
+            "images/0640c81ca6fdcd.webp"
+          ],
+          "cols": 2
+        },
+        {
+          "t": "p",
+          "html": "<span class=\"fs fs1\">FINAL FRAMES</span>"
+        },
+        {
+          "t": "img",
+          "src": "images/270a335d45d010.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "gallery",
+          "srcs": [
+            "images/9329c5da94246a.webp",
+            "images/c6a58bf834458f.webp",
+            "images/0a0e963228c36d.webp",
+            "images/a0ff4546f80c40.webp",
+            "images/ae2b9ce1d1886e.webp"
+          ],
+          "cols": 3
+        },
+        {
+          "t": "img",
+          "src": "images/ccbf74e1115c6a.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "video",
+          "url": "",
+          "src": "",
+          "vid": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "cluster": "films",
       "title": "Slick ",
       "tag": "Illustration | Style Frames",
       "href": "https://www.behance.net/gallery/203582083/Brand-Film-Designs-Slick",
       "art": 0,
-      "size": 1,
+      "size": 1.35,
       "cover": "images/959634c2b14dd1.webp",
       "hero": "images/be3e8ff14b7f87.webp",
       "heroFit": "framed",
@@ -483,7 +582,9 @@
       "tag": "Direction | Storyboarding | Style Frames ",
       "href": "https://www.behance.net/gallery/203193663/Brand-Film-Designs-Sqrrl",
       "art": 1,
-      "size": 1,
+      "size": 1.45,
+      "cover": "images/43c7cd5c98be6b.webp",
+      "hero": "images/3882aeb87f8285.webp",
       "heroFit": "framed",
       "brief": "<span class=\"fs fs2\">Sqrrl is a digital platform that simplifies investments and savings for individuals, offering various investment options like mutual funds, digital gold, and fixed deposits. They focus on making financial planning accessible and manageable with personalized advice and goal-based investing. </span>",
       "facts": [
@@ -526,71 +627,68 @@
           "caption": "",
           "size": "full"
         }
-      ],
-      "hero": "images/3882aeb87f8285.webp",
-      "cover": "images/43c7cd5c98be6b.webp"
-    },
-    {
-      "cluster": "films",
-      "title": "Prism — Product teaser",
-      "tag": "brand films",
-      "href": "#",
-      "art": 2,
-      "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
-      "facts": [
-        {
-          "label": "Client",
-          "value": ""
-        },
-        {
-          "label": "Scope",
-          "value": ""
-        },
-        {
-          "label": "Timeline",
-          "value": ""
-        }
-      ],
-      "linkLabel": "View project ↗",
-      "gap": 24,
-      "bg": "#1b1b1d",
-      "heroBg": "",
-      "ink": "auto",
-      "titleScale": 1,
-      "heroGap": 32
+      ]
     },
     {
       "cluster": "designs",
-      "title": "Ledger — Launch posts",
-      "tag": "brand designs | social media",
-      "href": "#",
+      "title": "Loop ",
+      "tag": "Social Media | Style Frames | Collaterals",
+      "href": "https://www.behance.net/gallery/203249159/Brand-Designs-Social-Media-Loop",
       "art": 5,
       "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
+      "heroFit": "framed",
+      "brief": "Loop is India's first Health Assurance company, offering a comprehensive healthcare system that emphasizes preventive care over reactive treatment. They provide customized group insurance and primary healthcare services, leveraging data and technology to enhance employee health and productivity.<p><br></p><p>My work included designing social media posts, print collaterals and style frames for animated videos, which specifically included custom illustrations for that piece</p>",
       "facts": [
         {
-          "label": "Client",
-          "value": ""
+          "label": "Agency",
+          "value": "OWLED Media Inc."
         },
         {
           "label": "Scope",
-          "value": ""
+          "value": "Social Media, Style Frames, Collaterals"
         },
         {
-          "label": "Timeline",
-          "value": ""
+          "label": "Year",
+          "value": "2022, 2023, 2024"
         }
       ],
       "linkLabel": "View project ↗",
       "gap": 24,
-      "bg": "#1b1b1d",
+      "bg": "#ffffff",
       "heroBg": "",
       "ink": "auto",
       "titleScale": 1,
-      "heroGap": 32
+      "heroGap": 28,
+      "blocks": [
+        {
+          "t": "p",
+          "html": "<span class=\"fs fs2\">SOCIAL MEDIA</span>"
+        },
+        {
+          "t": "img",
+          "src": "images/ebcbb94ea8931c.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "p",
+          "html": "<span class=\"fs fs2\">PLANNER</span>"
+        },
+        {
+          "t": "img",
+          "src": "images/aa9ac824aecfea.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "",
+          "caption": "",
+          "size": "full"
+        }
+      ],
+      "hero": "images/7f4cf85faa3be9.webp",
+      "cover": "images/ea3dbd37a4ddcf.webp"
     },
     {
       "cluster": "designs",
@@ -897,7 +995,8 @@
     "nav.work": 0.85,
     "nav.about": 0.85,
     "nav.resume": 0.85,
-    "sticker.under": 1.45
+    "sticker.under": 1.45,
+    "about.title": 0.6
   },
   "gridFx": [
     "drift"
