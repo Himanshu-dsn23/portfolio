@@ -831,7 +831,7 @@
         },
         {
           "t": "img",
-          "src": "images/94c37296bc6407.webp",
+          "src": "images/434ded5f9e66c5.webp",
           "caption": "",
           "size": "full"
         },
@@ -842,22 +842,22 @@
         {
           "t": "gallery",
           "srcs": [
-            "images/a9ee18c50b879f.webp",
-            "images/b0df3eb993830f.gif"
+            "images/229861919f220f.gif",
+            "images/a12686346387a8.webp"
           ],
           "cols": 2
         },
         {
           "t": "img",
-          "src": "images/d1183b4192bf2c.gif",
+          "src": "images/bbe2e562e013ae.webp",
           "caption": "",
           "size": "full"
         },
         {
           "t": "gallery",
           "srcs": [
-            "images/bbe2e562e013ae.webp",
-            "images/389c17fb3531fd.gif"
+            "images/d895d9fcf0b971.webp",
+            "images/7b79429e7a56d1.webp"
           ],
           "cols": 2
         },
@@ -866,6 +866,15 @@
           "src": "images/786fb329dfb323.gif",
           "caption": "",
           "size": "full"
+        },
+        {
+          "t": "p",
+          "html": "<span class=\"fs fs2\">SET BACKDROP:</span><p><span class=\"fs fs2\">The backdrop unfolds as a continuous, isometric illustration that captures the end-to-end journey of a seller on Flipkart Seller Hub. It spreads three panels, the composition seamlessly moves from order notification and seller onboarding to packaging, dispatch, and final delivery—using a modular, system-driven visual language with a limited color palette and clean line work.</span></p><p><span class=\"fs fs2\">PROCESS AND FINAL DESIGN:</span></p>"
+        },
+        {
+          "t": "gallery",
+          "srcs": [],
+          "cols": 2
         }
       ],
       "hero": "images/5edb239f3abccd.webp",
