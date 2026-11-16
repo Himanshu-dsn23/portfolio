@@ -6,7 +6,7 @@
     "alt": "Himanshu’s Playground — Himanshu Singh Chauhan"
   },
   "sticker": {
-    "under": "and Claude."
+    "under": "with Claude's help."
   },
   "hero": {
     "tagline": "Visual Designer and Illustrator with a passion for storytelling, brand identity, and all areas of communication design."
@@ -133,6 +133,7 @@
       "art": 1,
       "size": 1.5,
       "cover": "images/c584bf7f78f8d2.webp",
+      "hero": "images/6a1b355cd57f5e.webp",
       "heroFit": "framed",
       "brief": "Abundance Festival, is a celebration of the richness of human life and the extraordinary possibilities around us. Bringing together perspectives from science, culture, philosophy, spirituality, technology, ecology and the arts, the festival explores abundance beyond material prosperity, with a focus on India's diverse traditions, communities and contemporary voices.",
       "facts": [
@@ -211,37 +212,106 @@
           "caption": "",
           "size": "full"
         }
-      ],
-      "hero": "images/6a1b355cd57f5e.webp"
+      ]
     },
     {
       "cluster": "branding",
       "title": "Citizen Stack ",
-      "tag": "branding | illustrative",
-      "href": "#",
+      "tag": "Branding | Visual Identity",
+      "href": "https://www.behance.net/gallery/203694791/Branding-Citizen-Stack",
       "art": 2,
       "size": 1,
-      "heroFit": "bleed",
-      "brief": "",
+      "heroFit": "framed",
+      "brief": "Citizen Stack is focused on building and promoting digital public infrastructure, inspired by India's successful approach in leveraging technology for inclusiveness. They aim to share these innovations globally, encouraging other nations to develop their own digital infrastructure for enhanced citizen services.<p>A digital world makes us all equal. It's accessible and inclusive. Everyone has the same access. The same opportunity. At the same time.</p>",
       "facts": [
         {
-          "label": "Client",
-          "value": ""
+          "label": "Domain",
+          "value": "Tech for Government &amp; Policy"
         },
         {
           "label": "Scope",
-          "value": ""
+          "value": "Branding, Visual Identity, Print/Digital Collaterals, Deck, Website Identity"
         },
         {
-          "label": "Timeline",
-          "value": ""
+          "label": "Year",
+          "value": "2024"
         }
       ],
       "linkLabel": "View project ↗",
-      "gap": 24,
-      "bg": "#1b1b1d",
+      "gap": 0,
+      "bg": "#ffffff",
       "heroBg": "",
-      "ink": "auto"
+      "ink": "auto",
+      "blocks": [
+        {
+          "t": "img",
+          "src": "images/1948ea2a501c09.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/d1cc6dd87faa99.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/12937bc5f977aa.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/a7b9da2ff388a3.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/a6a28e9d759f3f.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/2a9b451e8facfd.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/2ce3d2280d1099.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/a3fe841523689b.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/7887b964d4a8f8.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/c2f9db2e536385.webp",
+          "caption": "",
+          "size": "full"
+        },
+        {
+          "t": "img",
+          "src": "images/797ec7677f1e11.webp",
+          "caption": "",
+          "size": "full"
+        }
+      ],
+      "hero": "images/d8d3d3a6d144b6.webp",
+      "cover": "images/1347663fd9a1ea.webp"
     },
     {
       "cluster": "branding",
@@ -696,6 +766,11 @@
     "resume": {
       "dx": -1029,
       "dy": 1330
+    },
+    "under": {
+      "dx": 207,
+      "dy": -58
     }
-  }
+  },
+  "items": []
 }
