@@ -664,15 +664,19 @@ body.pend #stage{opacity:0;animation:unpend 0s 3s forwards}@keyframes unpend{to{
     for(k=Math.ceil((HH-cy-H/2)/90);k<=Math.floor((HH-cy+H/2)/90);k++){y=H/2+(HH-k*90-cy);if(k>=0&&k<=20&&y>R)a+='<span style="top:'+y+'px">'+k*5+'</span>'}
     rl.innerHTML=a;
   }
-  var lft=0;
+  var lft=0,smp=[],TAU=340;
+  /* glide: velocity is px per ms, friction is time based so it feels the same at any frame rate */
   function loop(t){
     if(drag){raf=0;return}
-    var dt=Math.min(48,Math.max(1,t-(lft||t-16)));lft=t;var f=dt/16;
-    cx-=vx*f;cy-=vy*f;var d=Math.pow(.95,f);vx*=d;vy*=d;render();
-    if(Math.abs(vx)>.06||Math.abs(vy)>.06)raf=requestAnimationFrame(loop);else{raf=0;lft=0}
+    var dt=Math.min(40,Math.max(1,t-(lft||t-16)));lft=t;
+    var k=Math.exp(-dt/TAU),step=TAU*(1-k);
+    cx-=vx*step;cy-=vy*step;vx*=k;vy*=k;
+    clamp();if(cx<=-HW||cx>=HW)vx=0;if(cy<=-HH||cy>=HH)vy=0;
+    render();
+    if(Math.abs(vx)>.015||Math.abs(vy)>.015)raf=requestAnimationFrame(loop);else{raf=0;lft=0}
   }
   stage.addEventListener('pointerdown',function(e){
-    if(busy)return;tok++;drag=true;moved=0;tsx=e.clientX;tsy=e.clientY;lx=e.clientX;ly=e.clientY;lt=e.timeStamp;vx=vy=0;
+    if(busy)return;tok++;drag=true;moved=0;tsx=e.clientX;tsy=e.clientY;lx=e.clientX;ly=e.clientY;lt=e.timeStamp;vx=vy=0;smp=[[e.timeStamp,e.clientX,e.clientY]];
     stage.classList.add('drag');document.body.classList.add('moving');
   });
   addEventListener('pointermove',function(e){
@@ -686,10 +690,17 @@ body.pend #stage{opacity:0;animation:unpend 0s 3s forwards}@keyframes unpend{to{
     if(!drag)return;
     var dx=e.clientX-lx,dy=e.clientY-ly,dt=Math.max(1,e.timeStamp-lt);
     moved=Math.max(moved,Math.abs(e.clientX-tsx)+Math.abs(e.clientY-tsy));
-    cx-=dx;cy-=dy;vx=Math.max(-70,Math.min(70,-dx*16/dt*.65+vx*.35));vy=Math.max(-70,Math.min(70,-dy*16/dt*.65+vy*.35));
+    cx-=dx;cy-=dy;
+    var evs=e.getCoalescedEvents?e.getCoalescedEvents():null;
+    if(evs&&evs.length>1)evs.forEach(function(c){smp.push([c.timeStamp,c.clientX,c.clientY])});else smp.push([e.timeStamp,e.clientX,e.clientY]);
+    while(smp.length>2&&e.timeStamp-smp[0][0]>120)smp.shift();
     lx=e.clientX;ly=e.clientY;lt=e.timeStamp;render();
   });
-  function up(){if(!drag)return;drag=false;stage.classList.remove('drag');document.body.classList.remove('moving');if(performance.now()-lt>90)vx=vy=0;lft=0;if(!raf)raf=requestAnimationFrame(loop)}
+  function up(){if(!drag)return;drag=false;stage.classList.remove('drag');document.body.classList.remove('moving');
+    vx=vy=0;var n=smp.length,now=performance.now();
+    if(n>1&&now-smp[n-1][0]<100){var a=smp[0],b=smp[n-1],T=Math.max(16,b[0]-a[0]);vx=(b[1]-a[1])/T;vy=(b[2]-a[2])/T;
+      var sp=Math.hypot(vx,vy),mx=4.5;if(sp>mx){vx*=mx/sp;vy*=mx/sp}if(sp<.12)vx=vy=0}
+    smp=[];lft=0;if(!raf)raf=requestAnimationFrame(loop)}
   addEventListener('pointerup',up);addEventListener('pointercancel',up);
   document.addEventListener('pointerleave',function(){document.body.classList.remove('live')});
   stage.addEventListener('click',function(e){if(moved>10){e.preventDefault();e.stopPropagation()}},true);
