@@ -1240,13 +1240,17 @@
   "resume": {
     "label": "Resume",
     "caption": "click to open",
-    "ariaLabel": "Open resume PDF"
+    "ariaLabel": "Open resume PDF",
+    "pdf": "files/53454ff3e07009.pdf",
+    "fileName": "Himanshu - Resume (4).pdf",
+    "thumb": "images/89c2f5ead22bff.jpg"
   },
   "viewer": {
     "back": "← Back",
     "title": "Resume — Himanshu Singh Chauhan",
     "open": "Open PDF",
-    "alt": "Resume of Himanshu Singh Chauhan"
+    "alt": "Resume of Himanshu Singh Chauhan",
+    "download": "Download"
   },
   "ui": {
     "hint": "drag to explore",
