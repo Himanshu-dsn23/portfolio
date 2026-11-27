@@ -1301,5 +1301,14 @@
   ],
   "bg": "grid",
   "gridMotion": 40,
-  "items": []
+  "items": [
+    {
+      "id": "imwysm2cneo3",
+      "src": "images/6e972bcad21c8e.webp",
+      "x": -687,
+      "y": 460,
+      "w": 100,
+      "rot": -5
+    }
+  ]
 }
